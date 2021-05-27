@@ -3,8 +3,7 @@ body,html{
     padding: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to right, #000000 0%, #180000 40%, #180000 60%, #000000 100%);
-
+    background-color: #1f1f1f;
 
 }
 p,i,a,span{
@@ -18,23 +17,24 @@ p,i,a,span{
     width: 100%;
     height: 100%;
 }
-.higt_header{
-    width: 100%;
-    height: 50px;
-}
 .navbar_hidden{
     z-index: 10000;
     position: sticky;
     width: 100%;
     height: 50px;
-    background-color: rgb(82, 70, 70);
+    background-color: rgb(68, 68, 68);
     top: 0;
 }
-ul {
-    width: 1200px;
-    list-style-type: none;
+.center{
+    width: 1100px;
     margin: auto;
+    display: flex;
+    height: 50px;
+}
+ul {
+    list-style-type: none;
     padding: 0;
+    margin: 0;
     top: 0;
 }
 
@@ -45,21 +45,76 @@ li {
 
 li a {
     display: block;
-    color: #ffe6e6;
+    color: #ffe1e1;
     text-align: center;
     padding: 15px;
     text-decoration: none;
     transition: 0.5s;
-    border-bottom: 2px solid rgb(82, 70, 70);
+    border-bottom: 2px solid rgb(68, 68, 68);
 }
 
 li a:hover {
-    color: #ffe6e6;
     cursor: pointer;
     transition: 0.5s;
-    border-bottom: 2px solid #ffe6e6;
+    border-bottom: 2px solid #500000;
 }
 
 .active {
-    border-bottom: 2px solid #ffe6e6;
+    border-bottom: 2px solid #500000;
+}
+.center img:hover{
+    cursor: pointer;
+}
+
+.info{
+    color: #6f6f6f;
+    background-color: #1f1f1f;
+    width: 100%;
+    height: 50px;
+}
+.in-info{
+    margin: auto;
+    width: 1100px;
+    height: 100%;
+    background-color: #1f1f1f;
+    display: flex;
+    padding: 12px 0;
+}
+.in-info p, .in-info i{
+    margin: 0 5px;
+}
+.social{
+    display: flex;
+    margin-right: 0;
+    margin-left: auto;
+}
+.icon{
+    margin: 0 5px;
+    border-radius: 20%;
+    background-color: #6f6f6f;
+    color: #1f1f1f;
+    padding-top: 5px;
+    padding-left: 1px;
+    transition: 1s;
+    height: 22px;
+}
+.icon:hover{
+    background-color: #500000;
+    color: #dbe0ff;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.icon i:hover{
+    cursor: pointer;
+}
+
+/*head*/
+
+
+
+/*footer*/
+
+.foot{
+    height: 500px;
+    width: 100%;
 }

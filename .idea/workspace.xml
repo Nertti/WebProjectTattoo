@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="Иконки, фото и другое">
+    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="header">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/total.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/total.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main.html" afterDir="false" />
@@ -21,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1t1zoKZydGDEBxJzURjuoUoh0ya" />
   <component name="ProjectViewState">
@@ -46,6 +54,8 @@
       <workItem from="1621951564696" duration="25000" />
       <workItem from="1621951627715" duration="633000" />
       <workItem from="1622053323994" duration="1582000" />
+      <workItem from="1622092883779" duration="2840000" />
+      <workItem from="1622098110070" duration="2118000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1621951641389</created>
@@ -61,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622055468204</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="header">
+      <created>1622057354354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622057354354</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +100,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="Иконки" />
     <MESSAGE value="Иконки, фото и другое" />
-    <option name="LAST_COMMIT_MESSAGE" value="Иконки, фото и другое" />
+    <MESSAGE value="header" />
+    <option name="LAST_COMMIT_MESSAGE" value="header" />
   </component>
 </project>
