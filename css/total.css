@@ -26,7 +26,7 @@ p,i,a,span{
     top: 0;
 }
 .center{
-    width: 1100px;
+    width: 900px;
     margin: auto;
     display: flex;
     height: 50px;
@@ -74,7 +74,7 @@ li a:hover {
 }
 .in-info{
     margin: auto;
-    width: 1100px;
+    width: 900px;
     height: 100%;
     background-color: #1f1f1f;
     display: flex;
@@ -100,7 +100,7 @@ li a:hover {
 }
 .icon:hover{
     background-color: #500000;
-    color: #dbe0ff;
+    color: #ffdbdb;
     cursor: pointer;
     transition: 0.5s;
 }
@@ -110,11 +110,51 @@ li a:hover {
 
 /*head*/
 
-
+.gg{
+    width: 900px;
+    margin: 20px auto;
+}
+.button{
+    width: 200px;
+    height: 50px;
+    border: 2px solid #6f6f6f;
+    margin: 30px auto;
+    border-radius: 5px;
+    color: #6f6f6f;
+    font-size: 20px;
+    transition: 1s;
+}
+.in_but{
+    font-size: 20px;
+    padding: 14px 0;
+    text-align: center;
+}
+.button:hover{
+    background-color: #6f6f6f;
+    color: #1f1f1f;
+}
+.button:hover .in_but{
+    cursor: pointer;
+}
 
 /*footer*/
 
 .foot{
-    height: 500px;
+    height: 100px;
     width: 100%;
+    background-color: rgb(68, 68, 68);
+}
+.foot_info{
+    width: 900px;
+    margin: auto;
+}
+.tit{
+    font-weight: bold;
+    font-size: 30px;
+    color: #6f6f6f;
+}
+.tit_red{
+    font-weight: bold;
+    font-size: 30px;
+    color: #500000;
 }

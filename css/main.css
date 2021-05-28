@@ -1,0 +1,14 @@
+.buttons{
+    display: flex;
+    width: 100%;
+}
+.sert{
+    margin-top: 50px;
+    display: flex;
+}
+.text{
+    padding: 30px;
+}
+.txt{
+    font-size: 20px;
+}
