@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="header">
+    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/total.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/total.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-adrian-boustead-955938.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-cottonbro-5088508.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Глаавная/1.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +44,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\дом\Desktop\Web\Tatto\img\Глаавная" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +64,9 @@
       <workItem from="1622098110070" duration="2118000" />
       <workItem from="1622128702090" duration="224000" />
       <workItem from="1622181667725" duration="1859000" />
-      <workItem from="1622183714561" duration="3329000" />
+      <workItem from="1622183714561" duration="3580000" />
+      <workItem from="1622193689645" duration="1278000" />
+      <workItem from="1622213604703" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1621951641389</created>
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622128720255</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="main">
+      <created>1622187339225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622187339225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +126,7 @@
     <MESSAGE value="Иконки" />
     <MESSAGE value="Иконки, фото и другое" />
     <MESSAGE value="header" />
-    <option name="LAST_COMMIT_MESSAGE" value="header" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
 </project>
