@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/total.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/total.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Глаавная/1.jpg" afterDir="false" />
+    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="Добавление страниц (+5)">
+      <change beforePath="$PROJECT_DIR$/html/me.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/me.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +64,7 @@
       <workItem from="1622183714561" duration="3580000" />
       <workItem from="1622193689645" duration="1278000" />
       <workItem from="1622213604703" duration="2219000" />
+      <workItem from="1622225073180" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1621951641389</created>
@@ -103,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622187339225</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавление страниц (+5)">
+      <created>1622225095251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622225095251</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавление страниц (+5)">
+      <created>1622225107752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622225107752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +139,7 @@
     <MESSAGE value="Иконки, фото и другое" />
     <MESSAGE value="header" />
     <MESSAGE value="main" />
-    <option name="LAST_COMMIT_MESSAGE" value="main" />
+    <MESSAGE value="Добавление страниц (+5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление страниц (+5)" />
   </component>
 </project>
