@@ -1,0 +1,7 @@
+.menu{
+    display: flex;
+    margin: 20px auto;
+}
+.text{
+    padding: 30px;
+}
