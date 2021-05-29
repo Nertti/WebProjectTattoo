@@ -1,0 +1,11 @@
+.btn{
+    width: 300px;
+}
+.menu{
+    display: flex;
+    margin: 30px 0;
+}
+.card{
+    width: 280px;
+    margin: auto;
+}

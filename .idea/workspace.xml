@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="Добавление страниц (+5)">
-      <change beforePath="$PROJECT_DIR$/html/me.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/me.html" afterDir="false" />
+    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="me (done)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/total.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/total.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/price.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pexels-cottonbro-4123900.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pexels-djordje-petrovic-1433271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pexels-karolina-grabowska-5202393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pexels-kevin-bidwell-2183131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pexels-maria-orlova-4947756.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +71,8 @@
       <workItem from="1622183714561" duration="3580000" />
       <workItem from="1622193689645" duration="1278000" />
       <workItem from="1622213604703" duration="2219000" />
-      <workItem from="1622225073180" duration="304000" />
+      <workItem from="1622225073180" duration="1248000" />
+      <workItem from="1622265288717" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1621951641389</created>
@@ -115,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622225107752</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="me (done)">
+      <created>1622225860737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622225860737</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +155,7 @@
     <MESSAGE value="header" />
     <MESSAGE value="main" />
     <MESSAGE value="Добавление страниц (+5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление страниц (+5)" />
+    <MESSAGE value="me (done)" />
+    <option name="LAST_COMMIT_MESSAGE" value="me (done)" />
   </component>
 </project>
