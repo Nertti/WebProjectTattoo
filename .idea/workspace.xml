@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="price (done)">
+    <list default="true" id="7ed3f30c-4e0f-45d2-aee1-7a36bff2272b" name="Default Changelist" comment="sale (done)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sale.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sale.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sale.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/allef-vinicius-hxNiXP498UI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cristina-n-u6sjahIWxMI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lucas-lenzi-zeT_i6av9rU-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-aleksandar-pasaric-2713983.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-anete-lusina-4793309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-cottonbro-4979440.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-cottonbro-5235794.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-cottonbro-5320162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-denise-rodrigues-dos-leal-5207570.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-ralph-rabago-3290891.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-vinicius-altava-3356130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pexels-wendy-wei-2769172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kristian-angelo-xyJZvUL4_TY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pexels-djordje-petrovic-1433272.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +70,9 @@
       <workItem from="1622193689645" duration="1278000" />
       <workItem from="1622213604703" duration="2219000" />
       <workItem from="1622225073180" duration="1248000" />
-      <workItem from="1622265288717" duration="5112000" />
+      <workItem from="1622265288717" duration="6232000" />
+      <workItem from="1622280341362" duration="166000" />
+      <workItem from="1622314624534" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1621951641389</created>
@@ -145,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622266480720</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="sale (done)">
+      <created>1622277988322</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622277988322</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +171,7 @@
     <MESSAGE value="Добавление страниц (+5)" />
     <MESSAGE value="me (done)" />
     <MESSAGE value="price (done)" />
-    <option name="LAST_COMMIT_MESSAGE" value="price (done)" />
+    <MESSAGE value="sale (done)" />
+    <option name="LAST_COMMIT_MESSAGE" value="sale (done)" />
   </component>
 </project>
